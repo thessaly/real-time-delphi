@@ -1,6 +1,3 @@
-# Open hardware in academia
-## An experts' survey to identify policy options
-
 ## About the study
 ### What is a real-time Delphi exercise?
 The Delphi is a process designed to combine opinion into group consensus and identifying dissent. Experts from multiple backgrounds are invited to provide their opinion on pre-defined statements anonymously. 
