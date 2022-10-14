@@ -1,3 +1,4 @@
 remote_theme: pages-themes/cayman@v0.2.0
 title: Open hardware in academia
 description: An experts' survey to identify policy options
+show_downloads: false
