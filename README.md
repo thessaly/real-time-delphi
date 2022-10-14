@@ -1,8 +1,15 @@
 # Open hardware in academia
 ## An experts' survey to identify policy options
 
+## About the study
 ### What is a real-time Delphi exercise?
 The Delphi is a process designed to combine opinion into group consensus and identifying dissent. Experts from multiple backgrounds are invited to provide their opinion on pre-defined statements anonymously. 
+
+Learn more about the technique:
+- Beiderbeck, D., Frevel, N., von der Gracht, H. A., Schmidt, S. L., & Schweitzer, V. M. (2021). Preparing, conducting, and analyzing Delphi surveys: Cross-disciplinary practices, new directions, and advancements. MethodsX, 8, 101401. https://doi.org/10.1016/j.mex.2021.101401
+- Belton, I., MacDonald, A., Wright, G., & Hamlin, I. (2019). Improving the practical application of the Delphi method in group-based judgment: A six-step prescription for a well-founded and defensible process. Technological Forecasting and Social Change, 147, 72–82. https://doi.org/10.1016/j.techfore.2019.07.002
+- Markmann, C., Spickermann, A., von der Gracht, H. A., & Brem, A. (2021). Improving the question formulation in Delphi‐like surveys: Analysis of the effects of abstract language and amount of information on response behavior. FUTURES & FORESIGHT SCIENCE, 3(1). https://doi.org/10.1002/ffo2.56
+- Aengenheyster, S., Cuhls, K., Gerhold, L., Heiskanen-Schüttler, M., Huck, J., & Muszynska, M. (2017). Real-Time Delphi in practice—A comparative analysis of existing software-based tools. Technological Forecasting and Social Change, 118, 15–27. https://doi.org/10.1016/j.techfore.2017.01.023
 
 ### Why this study now?
 In the last five years, open hardware has gained traction as an alternative technology transfer paradigm in academia. Practitioners claim open hardware increases the impact of academic research, while making science more efficient and reproducible. The inclusion of open hardware as part of the UNESCO Open Science Recommendation has sparked wider interest in the topic. However, to date there's no comprehensive survey of experts' opinions on if and how to support open hardware practices in academia.  
