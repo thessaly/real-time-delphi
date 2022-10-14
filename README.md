@@ -36,7 +36,9 @@ This study is funded by a grant from the Alfred P. Sloan Foundation.
 - You can access it with a link I'll share via email with you
 - It works in all browsers + mobile, but there is no save option: if you close the browser the survey starts from zero
 - I estimate the whole exercise to take no more than 40 minutes
-- There is a compensation of USD200 for experts who complete the exercise## I need help
+- There is a compensation of USD200 for experts who complete the exercise
+
+## I need help
 
 Make sure you check the [Youtube walkthrough](https://youtu.be/zOwgR2-CujU) before completing the survey.
 
