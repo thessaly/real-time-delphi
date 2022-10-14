@@ -1,13 +1,13 @@
 # Open hardware in academia
 ## An experts' survey to identify policy options
 
-- [About this study](https://github.com/thessaly/real-time-delphi/blob/main/README.md#about-the-study)
+- [About this study](https://thessaly.github.io/real-time-delphi#about-the-study)
 
-- [Practical info](https://github.com/thessaly/real-time-delphi/blob/main/README.md#practical-info)
+- [Practical info](https://thessaly.github.io/real-time-delphi#practical-info)
 
-- [I need help](https://github.com/thessaly/real-time-delphi/blob/main/README.md#i-need-help)
+- [I need help](https://thessaly.github.io/real-time-delphi#i-need-help)
 
-- [Learn more about the Delphi technique](https://github.com/thessaly/real-time-delphi/blob/main/README.md#learn-more-about-the-Delphi-technique)
+- [Learn more about the Delphi technique](https://thessaly.github.io/real-time-delphi#learn-more-about-the-Delphi-technique)
 
 
 
