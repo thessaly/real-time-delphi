@@ -19,7 +19,7 @@ In the last five years, open hardware has gained traction as an alternative tech
 ### How does it work?
 Experts are asked to rate a series of policy recommendations in terms of desirability, feasibility and importance. The statementes are obtained from interviews with experts and available literature. The platform allows the experts to add a justification for their choices, input their level of confidence in the decision and check how other experts rated each question before. They are then given the opportunity to modify their rating or not, based on the available information. 
 
-### How is data used
+### How is data used?
 Responses to this survey are anonymous; other experts will not be able to identify your responses in the platform. 
 
 The data obtained from this survey will be stored in an encrypted server at University of Bath, and analysed by Dr. Julieta Arancio. It will be used to write a policy brief on the topic to be published in 2023. All respondents will receive a copy of the brief before it is published. 
