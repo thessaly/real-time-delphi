@@ -5,7 +5,7 @@
 
 - [Practical info](https://thessaly.github.io/real-time-delphi#practical-info)
 
-- [I need help](https://thessaly.github.io/real-time-delphi#i-need-help)
+- [Need help?](https://thessaly.github.io/real-time-delphi#i-need-help)
 
 - [Learn more about the Delphi technique](https://thessaly.github.io/real-time-delphi#learn-more-about-the-Delphi-technique)
 
@@ -42,17 +42,17 @@ This study is funded by a grant from the Alfred P. Sloan Foundation.
 
 ## Practical info
 
-- The platform opens on **October 24th** and closes on **November 14th**
-- You can access it with a link I'll share via email with you
-- It works in all browsers + mobile, but there is no save option: if you close the browser the survey starts from zero
-- I estimate the whole exercise to take no more than 40 minutes
-- There is a compensation of USD200 for experts who complete the exercise
+- The survey is anonymous and can be completed online anytime until its closing time, on November 25th - 6 pm UTC 
+- The platform works both in desktop and mobile environments 
+- Data will be used to write a policy brief on the topic, to be published in 2023.  
+- Experts’ time commitment is estimated to be 50-60 minutes 
+- Stipends of 200USD are available as compensation for your time; I can donate the stipend to a cause of your choice if you wish to do so 
 
-## I need help
+## Need help?
 
-Make sure you check the [Youtube walkthrough](https://youtu.be/zOwgR2-CujU) before completing the survey.
+Make sure you check the [2'-reading time tutorial](https://scribehow.com/shared/Supporting_open_hardware_in_academia_a_real-time_Delphi_survey__BCetx01bSUCFSxF9k7n6KA) before completing the survey.
 
-If you have any questions or comments about this study please email them to Dr. Julieta Arancio: ja2153@bath.ac.uk
+If you have any problems, questions or comments about this study please email them to Dr. Julieta Arancio: ja2153@bath.ac.uk
 
 
 ## Learn more about the Delphi technique    
