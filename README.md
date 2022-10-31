@@ -25,7 +25,7 @@ The goals are:
 In the last five years, open hardware has gained traction as an alternative technology transfer paradigm in academia. Practitioners claim open hardware increases the impact of academic research, while making science more efficient and reproducible. The inclusion of open hardware as part of the UNESCO Open Science Recommendation has sparked wider interest in the topic. However, to date there's no comprehensive survey of experts' opinions on if and how to support open hardware practices in academia.  
 
 ### How does it work?
-Experts are asked to rate a series of policy recommendations in terms of desirability, feasibility and importance. The statementes are obtained from interviews with experts and available literature. The platform allows the experts to add a justification for their choices, input their level of confidence in the decision and check how other experts rated each question before. They are then given the opportunity to modify their rating or not, based on the available information. 
+Experts are asked to rate a series of policy recommendations in terms of desirability, feasibility and importance. The statementes were obtained from interviews with the open hardware community experts and available academic and grey literature. The platform allows the experts to add a justification for their choices, input their level of confidence in the decision and check how other experts rated each question before. They are then given the opportunity to modify their rating or not, based on the available information. 
 
 ### How is data used?
 Responses to this survey are anonymous; other experts will not be able to identify your responses in the platform. 
